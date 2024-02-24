@@ -1,5 +1,6 @@
 # Gemini-vs-ChatGPT-SQL-Challenge
 This contribution is part of challenge presented by Digits n Data.
+
 Link to the [dataset](https://nitish2162001.github.io/Digits-n-Data-site/case1.html)
 
 ## Challenge Overview
