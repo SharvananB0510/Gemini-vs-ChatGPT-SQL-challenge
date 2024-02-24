@@ -5,6 +5,14 @@ Link to the [dataset](https://nitish2162001.github.io/Digits-n-Data-site/case1.h
 ## Challenge Overview
 The challenge is to craft SQL queries to extract insights from the Gemini Vs Chatgpt database.
 
+## Tables
+- Models
+- Capabilities
+- Benchmarks
+
+### Table Schema
+![image](https://github.com/SharvananB0510/Gemini-vs-ChatGPT-SQL-challenge/assets/69303949/99631ae1-4df4-4ce9-a3b9-7497d43b053a)
+
 ## Questions
 1) What are the average scores for each capability on both the Gemini Ultra and GPT-4 models?
 2) Which benchmarks does Gemini Ultra outperform GPT-4 in terms of scores?
@@ -17,10 +25,18 @@ The challenge is to craft SQL queries to extract insights from the Gemini Vs Cha
 9) Convert the Capability and Benchmark names to uppercase?
 10) Can you provide the benchmarks along with their descriptions in a concatenated format?
 
-## Tables
-- Models
-- Capabilities
-- Benchmarks
+## Concepts coevered
 
-### Table Schema
-![image](https://github.com/SharvananB0510/Gemini-vs-ChatGPT-SQL-challenge/assets/69303949/99631ae1-4df4-4ce9-a3b9-7497d43b053a)
+✅ Aggregated Functions: SUM, COUNT, AVERAGE
+
+✅ Filtering Rows: WHERE
+
+✅ Combining Tables: JOINS
+
+✅ Grouping Results: GROUP BY
+
+✅ Sorting Results: ORDER BY
+
+✅ Subqueries
+
+✅ Window Functions
