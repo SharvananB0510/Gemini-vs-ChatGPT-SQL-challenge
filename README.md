@@ -26,7 +26,7 @@ The challenge is to craft SQL queries to extract insights from the Gemini Vs Cha
 9) Convert the Capability and Benchmark names to uppercase?
 10) Can you provide the benchmarks along with their descriptions in a concatenated format?
 
-## Concepts coevered
+## Concepts Covered
 
 ✅ Aggregated Functions: SUM, COUNT, AVERAGE
 
